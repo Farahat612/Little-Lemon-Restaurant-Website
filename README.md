@@ -11,7 +11,7 @@ Little Lemon is a family-owned Mediterranean restaurant located in Chicago, Illi
 # Demo
 
 Watch a quick demo of the simple app if interested.
-https://github.com/Farahat612/Little-Lemon-Restaurant-Website/assets/67427124/e13e08cb-943e-4d24-8d77-8e543a68fbe3
+#https://github.com/Farahat612/Little-Lemon-Restaurant-Website/assets/67427124/e13e08cb-943e-4d24-8d77-8e543a68fbe3
 
 
 ## Installation
