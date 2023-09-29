@@ -8,10 +8,9 @@ Little Lemon Restaurant Website is a simple web application built using Django, 
 Little Lemon is a family-owned Mediterranean restaurant located in Chicago, Illinois. This website showcases the restaurant's menu, allows customers to make reservations, and provides information about the restaurant.
 
 
-# Demo
+# Watch a Demo
 
-Watch a quick demo of the simple app if interested.
-#https://github.com/Farahat612/Little-Lemon-Restaurant-Website/assets/67427124/e13e08cb-943e-4d24-8d77-8e543a68fbe3
+https://github.com/Farahat612/Little-Lemon-Restaurant-Website/assets/67427124/e13e08cb-943e-4d24-8d77-8e543a68fbe3
 
 
 ## Installation
